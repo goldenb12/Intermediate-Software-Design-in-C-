@@ -1,3 +1,2 @@
 # Intermediate-Software-Design-in-C-plus-plus
-
-I will post programming assignments that I have completed in an intermediate software design in C++ course I am taking at Foothill College.
+Completed C++ programming assignments for CS 2B at Foothill College
